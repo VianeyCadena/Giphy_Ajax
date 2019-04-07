@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/struckaxiom.png)
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+}
+
+.btn{
+    margin: 5px;
+    font-family: 'Indie Flower', cursive;
+}
+
+h3, h5 {
+    font-family: 'Indie Flower', cursive;
+}
